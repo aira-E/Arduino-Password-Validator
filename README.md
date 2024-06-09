@@ -13,4 +13,4 @@ This project is an Arduino-based password validator. It uses a keypad for input,
 - Jumper wires
 
 ## Circuit Diagram
-![Circuit Diagram]([PasswordValidator.png))
+![Circuit Diagram](PasswordValidator.png)
